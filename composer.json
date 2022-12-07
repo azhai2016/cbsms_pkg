@@ -13,10 +13,5 @@
             "Louis\\": "src/test"
         }
     },
-    "repositories": {
-        "packagist": {
-            "type": "composer",
-            "url": "https://packagist.phpcomposer.com"
-        }
-    }
+    "repositories": {}
 }
