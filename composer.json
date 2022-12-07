@@ -1,20 +1,15 @@
 {
     "name": "bobzhai/cbsmspkg",
-    "description": "this is cbsms package",
+    "description": "This is CBSMS Packlists",
     "type": "library",
+    "require": {
+        "php": ">=5.4.0"
+    },
     "license": "MIT",
     "minimum-stability": "dev",
-    "require": {
-        "php": ">5.4.0"
-    },
     "autoload": {
         "psr-4": {
-            "cbsmspkg\\": "src/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "cbsmspkg\\db\\": "src/cbsmspkg/db"
+            "Louis\\": "src/test"
         }
     }
 }
