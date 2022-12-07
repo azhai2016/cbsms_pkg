@@ -3,11 +3,10 @@
     "description": "This is CBSMS Packlists",
     "type": "library",
     "require": {
-        "php": ">=5.4.0"
+        "php": ">=5.5.0"
     },
     "license": "MIT",
     "minimum-stability": "dev",
-    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "Louis\\": "src/test"
