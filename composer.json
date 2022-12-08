@@ -1,16 +1,13 @@
 {
-    "name": "bobzhai/cbsmspkg",
-    "description": "This is CBSMS Packlists",
+    "name": "bobzhai/test",
+    "description": "this is test",
     "type": "library",
-    "require": {
-        "php": ">=5.5.0"
-    },
     "license": "MIT",
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Louis\\": "src/test"
+            "Bobzhai\\Test\\": "src/"
         }
     },
-    "repositories": {}
+    "minimum-stability": "dev",
+    "require": {}
 }

@@ -1,5 +1,5 @@
 <?php
-namespace Louis;
+namespace Bobzhai\Test;
 class Test 
 {
     public function test()
